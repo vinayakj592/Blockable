@@ -20,3 +20,7 @@ This project was made possible by combined efforts of Vinayak Joshi and Utsav Jh
 
 ## Update
  The fully functional & deployed version of the application is yet to be released.
+
+##Contact
+Vinayak Joshi - vinayakjoshi1930@gmail.com
+Utsav Jha - utsav23jha@gmail.com
