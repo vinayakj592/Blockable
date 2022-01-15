@@ -12,7 +12,11 @@
 ![SS5](https://user-images.githubusercontent.com/85495019/149628434-d0a56ec4-94cf-49ee-b792-421cc28f8edf.PNG)
 
 
-## This project was made possible by combined efforts of UTSAV JHA and VINAYAK JOSHI.
+## Introduction
 
-This project is a fully functioning crypto wallet where you could send cryptocurrencies and also exchange it!
-To know more about the poject go to view it!
+Blockable is a a web 3.0 application to buy or sell cryptocurrencies in any exchange with support of built in wallet.
+
+This project was made possible by combined efforts of Vinayak Joshi and Utsav Jha
+
+## Update
+ The fully functional & deployed version of the application is yet to be released.
