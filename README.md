@@ -26,4 +26,5 @@ This project was made possible by combined efforts of Vinayak Joshi and Utsav Jh
 ## Contact
 
 Vinayak Joshi - vinayakjoshi1930@gmail.com
+
 Utsav Jha - utsav23jha@gmail.com
